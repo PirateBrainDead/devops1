@@ -1,1 +1,11 @@
 this is first git devopssec 
+created on 26 jan 2k24
+
+
+
+git init
+git add
+git commit
+git status
+git log 
+git config
